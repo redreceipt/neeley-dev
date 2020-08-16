@@ -1,4 +1,9 @@
-{% extends "index.html" %} {% block title %}{{ SITENAME }} - {{ category }}
-category{% endblock %} {% block content_title %}
+{% extends "index.html" %}
+
+{% block title %}
+{{ SITENAME }} - {{ category }}
+{% endblock %}
+
+{% block content_title %}
 <h2>Articles in the {{ category }} category</h2>
 {% endblock %}
