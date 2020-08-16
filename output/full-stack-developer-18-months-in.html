@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <title>Michael's Blog - Full Stack Developer, 18 Months In</title>
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+     </head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Michael's Blog</a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+            <li class="active"><a href="/category/blog.html">Blog</a></li>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a
+        href="/full-stack-developer-18-months-in.html"
+        rel="bookmark"
+        title="Permalink to Full Stack Developer, 18 Months In"
+        >Full Stack Developer, 18 Months In</a
+      >
+    </h2>
+ 
+  </header>
+  <footer class="post-info">
+    <time class="published" datetime="2020-05-12T00:00:00-04:00">
+      Tue 12 May 2020
+    </time>
+     <address class="vcard author">
+      By       <a class="url fn" href="/author/michael-neeley.html">Michael Neeley</a>
+    </address>
+     <div class="category">
+      Category:
+      <a href="/category/blog.html"
+        >Blog</a
+      >
+    </div>
+   </footer>
+  <!-- /.post-info -->
+  <div class="entry-content">
+    <p>I'm relatively new to web development. I learned Javascript at the end of 2018 and have enjoyed every second of it. But the modern stack seems to be growing increasingly more complex without a lot of payoff. I tend to agree with Tom <a href="https://macwright.org/2020/05/10/spa-fatigue.html">here</a>.</p>
+<p>In a previous life I was Linux engineer and worked primarily in Python. To say it's my favorite is an understatement. This is why I have felt such a strong magnetic pull towards Flask. I understand that choosing to work with a server-rendered framework in 2020 is the equivalent of heading over to Cingular Wireless and picking out a new Blackberry, but I can't help it. You’ve got a fully extensible back and front end with five lines of boilerplate. Every SaaS in the world has a fully functioning Python API and for fancy front-end stuff, we've got HTML, CSS, and plain ol' Javascript.</p>
+<p>Don't get me wrong, I love React. The interactivity you get out of the box is incredible. It's obvious why it's caught on. But when something has gone wrong, I have to debug React and every other tool down to the roots. For simple projects, I may as well just learn JS better and cut out the middleman.</p>
+<p>So back to Flask. It's got Python. It's got the back end libraries to do anything I need. And on the front-end, it doesn't try to re-invent the wheel.</p>
+<p>Ok so I've got a fully functioning website on my computer, but where do I put it?</p>
+<p><img alt="It's in the computer" src="https://media.giphy.com/media/4cjRNnP4dpMis/giphy.gif"></p>
+<p>I learned about <a href="vercel.com">Vercel</a> (formerly Zeit) somewhere along the way and fell in love. They have all the hard questions answered and make it so easy to buy a domain and deploy a static site or a simple serverless function, complete with a global CDN, first-class developer tools and practically no configuration.</p>
+<p>Then they moved to 2.0 and the honeymoon was over.</p>
+<p>I still think they are the gold standard for the modern JAMStack site mentioned above. But they will be the first to tell you that support for server-rendered sites and advanced application servers on their platform is essentially deprecated. So what do I do with search indexing? Persistent cache? Custom data schemas? The <a href="https://twitter.com/rauchg/status/1247965620668231680">answer is somewhat open-ended</a> primarily because the serverless landscape is just getting started. Even trying to use Mongo was a dead end. Tools like <a href="https://hasura.io/">Hasura</a> and <a href="https://fauna.com/">Fauna</a> look amazing but are just the tip of the iceberg.</p>
+<p>So on personal pet project number two, I'm moving my Flask site to Heroku to see if I have better luck. Our GraphQL server at work is hosted there so I was already familiar. I'm a day in, so far so good. The developer experience can't touch Vercel but there seems to be an answer for everything. Native Redis and Postgres integrations are already answering my unanswered serverless questions. I'll need to set up custom domains and preview deployments, steps that are stupid simple with Vercel but I imagine it won't be much work.</p>
+<p>Overall, I love how much there is to learn. It satisfies my never ending curiosity. Fresh perspectives are valuable but that’s all I have to offer. These thoughts are from someone with very little experience so please be patient with my naivety. One thing however is certain, code makes anything possible. I’m having a blast.</p>
+  </div>
+  <!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
