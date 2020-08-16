@@ -39,3 +39,10 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 THEME = './themes/michael'
+
+# TEMPLATE_PAGES = {"pages/about.html": "about.html"}
+
+# Other settings
+USE_FOLDER_AS_CATEGORY = True
+DELETE_OUTPUT_DIRECTORY = True
+DEFAULT_DATE_FORMAT = "%b %-m, %Y"
