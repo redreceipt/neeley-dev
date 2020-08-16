@@ -1,6 +1,9 @@
 {
-  "routes": {
-    "src": "/",
-    "dest": "/category/blog.html"
-  }
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/category/blog.html"
+    }
+  ],
+  "cleanUrls": true
 }
