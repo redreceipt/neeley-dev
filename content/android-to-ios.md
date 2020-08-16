@@ -13,6 +13,7 @@ So while iOS is more polished, Android has always been the more exciting choice 
 > I use iOS because it helps me focus less on the technology and more on what I do with it.
 
 I always considered myself a minimalist. You can ask my wife. I eat the exact same thing for breakfast and lunch every single day. I have three pairs of shoes that I wear. A pair of flip flops, and pair of athletic shoes, and a pair of slightly less athletic shoes for date night. I would wear the same pair jeans every day for eternity if Amber would let me. So I like consistency and not clogging up my brain with too many pointless decisions (as I see them).
+
 _Except for tech._
 
 I love experimenting with the latest hardware. I’ll sit for an hour browsing app stores for various tools, download them all, and then evaluate to see which ones I like best. I read the “What’s New” section when I have available updates. It’s this curiosity that has kept me firmly planted within Google’s sandbox.
