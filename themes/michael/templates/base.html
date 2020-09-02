@@ -39,6 +39,10 @@
 .active {
   text-decoration: underline;
 }
+.brand-link {
+  text-decoration: none;
+  color: black;
+}
 </style>
 
 {% endblock head %}
@@ -49,7 +53,7 @@
     <div class="container">
       <div class="columns">
         <div class="column is-one-fifth">
-          <strong>{{ SITENAME }}</strong>
+          <strong><a class="brand-link" href="{{ SITEURL }}/">{{ SITENAME }}</a></strong>
           <ul>
           {% for title, link in MENUITEMS %}
             <li><a href="{{ link }}">{{ title }}</a></li>

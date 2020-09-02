@@ -1,10 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/category/blog.html"
-    }
-  ],
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
