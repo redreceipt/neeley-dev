@@ -1,4 +1,29 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Body
