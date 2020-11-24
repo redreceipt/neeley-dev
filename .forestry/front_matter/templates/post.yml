@@ -2,12 +2,12 @@
 label: Post
 hide_body: false
 fields:
-- name: title
+- name: Title
   type: text
   config:
     required: true
   label: Title
-- name: date
+- name: Date
   type: datetime
   label: Date
   description: ''
@@ -18,12 +18,3 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD
   default: now
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Body
