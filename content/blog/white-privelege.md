@@ -1,5 +1,5 @@
 ---
-Title: White Privelege
+Title: White Privilege
 Date: 2020-06-08
 
 ---
