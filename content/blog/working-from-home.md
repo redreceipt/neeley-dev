@@ -1,8 +1,8 @@
 ---
 Title: Working From Home?
 Date: 2020-05-15
-
 ---
+
 I’m becoming more and more convinced that teams working remotely is a bad idea.
 
 I know in 2020 this is heresy in the tech industry. In the midst of COVID-19, organizations are really starting to consider the idea for the first time. The idea is that with greater autonomy and trust comes greater productivity. But at what cost?
