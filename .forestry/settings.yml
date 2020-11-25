@@ -26,4 +26,4 @@ build:
   install_dependencies_command: pip install -r requirements.txt
   preview_docker_image: python:3
   mount_path: "/usr/src/app"
-  instant_preview_command: pelican content
+  instant_preview_command: pelican content && pelican --listen
