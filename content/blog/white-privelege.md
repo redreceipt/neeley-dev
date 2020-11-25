@@ -1,6 +1,8 @@
+---
 Title: White Privelege
 Date: 2020-06-08
 
+---
 The concept of white privilege is difficult for me to admit because acknowledging it means that I didn’t have to work as hard as others to get where I’m at. But what’s really happening is my insecurity getting in the way of showing compassion. I do this as a dad when I ignore or downplay my kids being afraid of the dark or being shy at school. I do this as a husband when my wife tells me how difficult it is to have a frank conversation with her boss at work. It makes me unapproachable and cold. And certainly nothing like Jesus.
 
 **What would happen if I leaned in and acknowledged my obvious advantages instead of dismissing the disadvantages of others?**
