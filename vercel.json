@@ -11,5 +11,11 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/dotfiles",
+      "destination": "https://github.com/redreceipt/dotfiles"
+    }
   ]
 }
