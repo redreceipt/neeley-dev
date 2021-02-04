@@ -1,5 +1,6 @@
 Title: Beautiful Resistance
 Date: 2020-08-03
+Status: published
 
 _by Jon Tyson_
 

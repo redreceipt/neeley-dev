@@ -43,6 +43,11 @@ THEME = './themes/michael'
 # TEMPLATE_PAGES = {"pages/about.html": "about.html"}
 
 # Other settings
+ARTICLE_URL = "{slug}"
+DRAFT_URL = "drafts/{slug}"
+PAGE_URL = "{slug}"
+CATEGORY_URL = "{slug}"
 USE_FOLDER_AS_CATEGORY = True
 DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_DATE_FORMAT = "%b %-m, %Y"
+DEFAULT_METADATA = {"Status": "draft"}

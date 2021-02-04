@@ -1,5 +1,6 @@
 Title: Dune
 Date: 2020-07-20
+Status: published
 
 _by Frank Herbert_
 

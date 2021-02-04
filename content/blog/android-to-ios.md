@@ -1,5 +1,6 @@
 Title: Android to iOS, An Experiment
 Date: 2020-05-28
+Status: published
 
 It’s going to come as a shock to most people when they get a blue bubble text from me. I’ve been an Android user since the beginning. My first smart phone was the original Motorola Droid with the sliding keyboard. While I was most likely drawn to being anti-establishment in the beginning, what kept me around was Google’s endless curiosity and pursuit of technology on the fringes. It’s in their DNA to push the boundary of what is possible. The rapid iteration of exciting tech has kept me involved in their ecosystem.
 

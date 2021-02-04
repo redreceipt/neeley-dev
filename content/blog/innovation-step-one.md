@@ -1,5 +1,6 @@
 Title: Innovation, step one
 Date: 2017-03-26
+Status: published
 
 Today we tried something new. Very different and very new. And it went so well. This is huge because I lead a team of brilliant, skeptics.
 

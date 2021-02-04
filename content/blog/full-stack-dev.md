@@ -1,5 +1,6 @@
 Title: Full Stack Developer, 18 Months In
 Date: 2020-05-12
+Status: published
 
 I'm relatively new to web development. I learned Javascript at the end of 2018 and have enjoyed every second of it. But the modern stack seems to be growing increasingly more complex without a lot of payoff. I tend to agree with Tom [here](https://macwright.org/2020/05/10/spa-fatigue.html).
 
