@@ -1,5 +1,6 @@
 Title: Atomic Habits
 Date: 2020-11-19
+Status: published
 
 _by James Clear_
 

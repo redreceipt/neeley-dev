@@ -1,7 +1,6 @@
----
 Title: Working From Home?
 Date: 2020-05-15
----
+Status: published
 
 I’m becoming more and more convinced that teams working remotely is a bad idea.
 
