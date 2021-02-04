@@ -45,8 +45,8 @@ THEME = './themes/michael'
 # Other settings
 ARTICLE_URL = "{slug}"
 DRAFT_URL = "drafts/{slug}"
-PAGE_URL = "{slug}"
-CATEGORY_URL = "{slug}"
+PAGE_URL = "pages/{slug}"
+CATEGORY_URL = "category/{slug}"
 USE_FOLDER_AS_CATEGORY = True
 DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_DATE_FORMAT = "%b %-m, %Y"
