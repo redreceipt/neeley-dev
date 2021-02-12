@@ -30,7 +30,7 @@ Deborah was a judge in Israel. That means she was the leader of the country, mad
 
 ##### Huldah
 
-> "So Hilkiah and those whom the king had sent[c] went to Huldah the prophetess, the wife of Shallum the son of Tokhath, son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter) and spoke to her to that effect. 23 And she said to them, “Thus says the Lord, the God of Israel: ‘Tell the man who sent you to me..." - 2 Chronicles 34:22-28
+> "So Hilkiah and those whom the king had sent went to Huldah the prophetess, the wife of Shallum the son of Tokhath, son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter) and spoke to her to that effect. And she said to them, “Thus says the Lord, the God of Israel: ‘Tell the man who sent you to me..." - 2 Chronicles 34:22-28
 
 Huldah was a wife and prophetess. She interpreted the words of the Lord which were given to the King Josiah to act on. She was highly respected, favored, and trusted by God. She was not deceived.
 
