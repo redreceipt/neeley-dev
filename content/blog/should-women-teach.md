@@ -1,5 +1,6 @@
 Title: Should Women Teach the Bible?
 Date: 2021-02-04
+Status: published
 
 Two weeks ago, a woman at our church delivered one of the best sermons I can remember. It challenged and encouraged me in more ways than one. And this isn't the first time she's preached a phenomenal message.
 
@@ -26,6 +27,12 @@ Figured the easiest way to answer this question is to look at prominent women in
 > "Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time. She used to sit under the palm of Deborah between Ramah and Bethel in the hill country of Ephraim, and the people of Israel came up to her for judgment. She sent and summoned Barak the son of Abinoam from Kedesh-naphtali and said to him, “Has not the Lord, the God of Israel, commanded you, ‘Go, gather your men at Mount Tabor, taking 10,000 from the people of Naphtali and the people of Zebulun." - Judges 4:4-6 ESV
 
 Deborah was a judge in Israel. That means she was the leader of the country, made the decisions, and settled the disputes. It also points out that she quotes God and delivers it as fact to the men of the day. Safe to assume that, occasionally, she wasn't deceived.
+
+##### Huldah
+
+> "So Hilkiah and those whom the king had sent went to Huldah the prophetess, the wife of Shallum the son of Tokhath, son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter) and spoke to her to that effect. And she said to them, “Thus says the Lord, the God of Israel: ‘Tell the man who sent you to me..." - 2 Chronicles 34:22-28
+
+Huldah was a wife and prophetess. She interpreted the words of the Lord which were given to the King Josiah to act on. She was highly respected, favored, and trusted by God. She was not deceived.
 
 ##### Miriam
 
@@ -55,7 +62,7 @@ Through these stories, I can assert that **women are valuable and capable of lea
 
 #### 2. Should everything in the New Testament be taken literally?
 
-This question comes up a lot when reading difficult passages in the Bible. It's worth mentioning. There are things written we must take in context according to the culture of the day. One place we see this is Luke writing to the gentiles:
+This question comes up a lot when reading difficult passages in the Bible. It's worth mentioning. There are things written we must take in context according to the culture of the day. One place we see this is James giving instruction to the gentiles:
 
 > “For it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements: that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell.”” - Acts 15:28-29 ESV
 
