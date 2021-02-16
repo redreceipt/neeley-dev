@@ -1,5 +1,6 @@
 Title: Charlie Wilson's War
 Date: 2021-01-22
+Status: published
 
 ★★★★
 

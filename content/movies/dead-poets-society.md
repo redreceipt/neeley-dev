@@ -1,5 +1,6 @@
 Title: Dead Poet's Society
 Date: 2021-01-22
+Status: published
 
 ★★★
 
