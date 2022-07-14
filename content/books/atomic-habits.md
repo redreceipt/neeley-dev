@@ -1,10 +1,8 @@
 Title: Atomic Habits
 Date: 2020-11-19
 Status: published
-
-_by James Clear_
-
-★★★★
+BookAuthor: James Clear
+Rating: 4
 
 I've heard about this book from lots of friends recently, so I figured it was time to read it myself. And it did not disappoint. I had read Power of Habit by Duhigg awhile back. This book takes the science from that book and makes it way more practical. He uses many illustrations from true stories and makes it relate to many different circumstances. I took something from every chapter and constantly had ideas on how to improve my life.
 
