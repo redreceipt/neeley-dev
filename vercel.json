@@ -16,6 +16,10 @@
     {
       "source": "/dotfiles",
       "destination": "https://github.com/redreceipt/dotfiles"
+    },
+    {
+      "source": "/new",
+      "destination": "https://gitpod.io#https://github.com/redreceipt/neeley-dev"
     }
   ]
 }
