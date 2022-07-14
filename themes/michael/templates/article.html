@@ -1,67 +1,56 @@
-{% extends "base.html" %}
+{% extends "base.html" %} {% block html_lang %}{{ article.lang }}{% endblock %}
+{% block title %}{{ article.title|striptags }} - {{ SITENAME }}{% endblock %} {%
+block head %} {{ super() }} {% if article.description %}
+<meta name="description" content="{{article.description}}" />
+{% endif %} {% for tag in article.tags %}
+<meta name="tags" content="{{tag}}" />
+{% endfor %} {% endblock %} {% block content %}
 
-{% block html_lang %}{{ article.lang }}{% endblock %}
-
-{% block title %}{{ article.title|striptags }} - {{ SITENAME }}{% endblock %}
-
-{% block head %}
-{{ super() }}
-
-{% if article.description %}
-  <meta name="description" content="{{article.description}}" />
-{% endif %}
-
-{% for tag in article.tags %}
-  <meta name="tags" content="{{tag}}" />
-{% endfor %}
-{% endblock %}
-
-{% block content %}
-
-  <!-- Title -->
-  <header>
-    <div class="content">
-      <h2 class="entry-title">
-        <a
-          href="{{ SITEURL }}/{{ article.url }}"
-          rel="bookmark"
-          title="Permalink to {{ article.title|striptags }}">
-          {{ article.title }}
-        </a>
-      </h2>
-    </div>
-  </header>
-
-  <!-- Content -->
+<!-- Title -->
+<header>
   <div class="content">
-    {{ article.content }}
+    <h2 class="entry-title">
+      <a
+        href="{{ SITEURL }}/{{ article.url }}"
+        rel="bookmark"
+        title="Permalink to {{ article.title|striptags }}"
+      >
+        {{ article.title }}
+      </a>
+    </h2>
+    {% if article.bookauthor %}
+    <small><i>by {{ article.bookauthor }}</i></small>
+    {% endif %}
   </div>
+</header>
 
-  <!-- Credits -->
-  <time class="published" datetime="{{ article.date.isoformat() }}">
-    {{ article.locale_date }}
-  </time>
-
-  {% if article.modified %}
-    <time class="modified" datetime="{{ article.modified.isoformat() }}">
-      {{ article.locale_modified }}
-    </time>
+<!-- Content -->
+<div class="content">
+  {% if article.rating %}
+  <p>{{ "★" * article.rating | int }}</p>
   {% endif %}
+  <p>{{ article.content }}</p>
+</div>
 
-  {% if article.authors and article.authors != ["Michael Neeley"] %}
-    <address class="vcard author">
-      By {% for author in article.authors %}
-      <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-      {% endfor %}
-    </address>
-  {% endif %}
+<!-- Credits -->
+<time class="published" datetime="{{ article.date.isoformat() }}">
+  {{ article.locale_date }}
+</time>
 
-  {% if article.tags %}
-  <div class="tags">
-    Tags: {% for tag in article.tags %}
-    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-    {% endfor %}
-  </div>
-  {% endif %}
-
-{% endblock %}
+{% if article.modified %}
+<time class="modified" datetime="{{ article.modified.isoformat() }}">
+  {{ article.locale_modified }}
+</time>
+{% endif %} {% if article.authors and article.authors != ["Michael Neeley"] %}
+<address class="vcard author">
+  By {% for author in article.authors %}
+  <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+  {% endfor %}
+</address>
+{% endif %} {% if article.tags %}
+<div class="tags">
+  Tags: {% for tag in article.tags %}
+  <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %} {% endblock %}
