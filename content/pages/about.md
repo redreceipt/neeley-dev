@@ -1,6 +1,8 @@
 Title: about
 Status: published
 
+![family]({static}/images/family.jpg)
+
 Hi I'm Michael.
 
 My life is way better than I deserve. A little over 10 years ago, Jesus radically changed me by extending grace to a selfish, lost kid in high school. I try every day to reflect the price he paid for me by showing that love to other people. Most of the time I fall short, but the ride is worth it.
