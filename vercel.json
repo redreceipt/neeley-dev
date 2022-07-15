@@ -20,6 +20,10 @@
     {
       "source": "/edit",
       "destination": "https://gitpod.io/#github.com/redreceipt/neeley-dev"
+    },
+    {
+      "source": "/new",
+      "destination": "https://gitpod.io/#github.com/redreceipt/new"
     }
   ]
 }
