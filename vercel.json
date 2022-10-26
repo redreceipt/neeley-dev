@@ -24,6 +24,10 @@
     {
       "source": "/new",
       "destination": "https://gitpod.io/#github.com/redreceipt/new"
+    },
+    {
+      "source": "/box",
+      "destination": "https://www.dropbox.com/s/id5hgd6097br1yt/init.sh"
     }
   ]
 }
