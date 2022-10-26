@@ -14,10 +14,6 @@
   ],
   "redirects": [
     {
-      "source": "/dotfiles",
-      "destination": "https://github.com/redreceipt/dotfiles"
-    },
-    {
       "source": "/edit",
       "destination": "https://gitpod.io/#github.com/redreceipt/neeley-dev"
     },
@@ -26,7 +22,7 @@
       "destination": "https://gitpod.io/#github.com/redreceipt/new"
     },
     {
-      "source": "/box",
+      "source": "/install",
       "destination": "https://www.dropbox.com/s/id5hgd6097br1yt/init.sh"
     }
   ]
